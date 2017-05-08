@@ -5,3 +5,11 @@
 #include<stdlib.h>
 #include<string.h>
 
+#include "Fichier.c"
+
+main
+{
+
+
+
+}
