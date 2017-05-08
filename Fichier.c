@@ -9,7 +9,11 @@
 
 main
 {
+int resultatint;
+double resultatdouble;
 
+resultatint=fonction1(23,25);
+resultatdouble=fonction2(2,23.2)
 
 
 }
